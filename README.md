@@ -3,7 +3,7 @@ My first GitHub Pages Repository
 
 Good morning!
 
-My name is André Simões, I'm studying the Internet Computer Technician. 
+My name is André Simões, I'm doing the computer technician for the internet. 
 I've studied web development (html5, css, javascript, c#, ef core, bootstrap) 
 and now I'm studying mobile development for Android (react native). 
 I'm looking for opportunities to enter the job market.
