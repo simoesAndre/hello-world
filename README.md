@@ -1,9 +1,9 @@
 # hello-world
 My first GitHub Pages Repository
 
-Good morning!
+Bom Dia!
 
-My name is André Simões, I'm doing the computer technician for the internet. 
-I've studied web development (html5, css, javascript, c#, ef core, bootstrap) 
-and now I'm studying mobile development for Android (react native). 
-I'm looking for opportunities to enter the job market.
+Meu nome é André Simões, estou fazendo Técnico de Informática para a Internet. 
+Estudei desenvolvimento web (html5, css, javascript, c#, ef core, bootstrap) 
+e agora estou estudando desenvolvimento mobile para Android (react native). 
+Estou em busca de oportunidades de inserção no mercado de trabalho.
